@@ -19,20 +19,21 @@
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "seguro",
+            "info"        ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "Uno",
+            "1️⃣",
+            "uno"
         ],
         "key": "STEP_2_1"
     },
     {
         "keywords":  [
-            "node"
+            "Cobertura A"
         ],
         "key": "STEP_2_2"
     },
