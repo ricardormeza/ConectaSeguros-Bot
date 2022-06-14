@@ -28,7 +28,7 @@
         "media":null,
         "trigger":null,
         "actions":{
-            "title":"¿Piensa en la seguridad de tu familia?",
+            "title":"¿Piensas en la seguridad de tu familia?",
             "message":"Recuerda que los accidentes le pueden pasar a cualquiera",
             "footer":"Gracias",
             "buttons":[
